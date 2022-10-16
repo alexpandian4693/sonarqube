@@ -1,0 +1,6 @@
+projectKey=UI_AUTOMATION
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=UI_AUTOMATION
+ceTaskId=AYPfNq_5ZgE6L6VYD_O1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPfNq_5ZgE6L6VYD_O1
